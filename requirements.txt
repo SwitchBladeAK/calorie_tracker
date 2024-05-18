@@ -1,3 +1,5 @@
 streamlit
 google-generativeai
 python-dotenv
+streamlit_webrtc
+opencv-python-headless
