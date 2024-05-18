@@ -1,4 +1,4 @@
-# Gemini Health App
+# My Health App
 
 This is a Streamlit web application that uses Google Gemini AI to analyze food images and provide nutritional information, including calorie counts and a health assessment.
 
