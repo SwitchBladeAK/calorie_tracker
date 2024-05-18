@@ -27,7 +27,7 @@ def input_image_setup(uploaded_file):
     else:
         raise FileNotFoundError("No file uploaded")
 
-st.set_page_config(page_title="Gemini Health App")
+st.set_page_config(page_title="Ankit's Health App")
 
 st.header("Ankit's Health App")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
